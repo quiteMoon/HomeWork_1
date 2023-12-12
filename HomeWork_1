@@ -1,0 +1,23 @@
+# Task 1
+# number_1 = int(input("Enter first number "))
+# number_2 = int(input("Enter second number "))
+# number_3 = int(input("Enter third number "))
+
+# print(f"Sum = {number_1 + number_2 + number_3}")
+# print(f"Multiple = {number_1 * number_2 * number_3}")
+
+
+# Task 2
+# money = int(input("Zarplapa: "))
+# bank = int(input("Kredit: "))
+# komynalka = int(input("Komynalka: "))
+# zalishok = money - bank - komynalka
+
+# if(zalishok < 0 ): print("Vam ne vistachit groshey")
+# elif(zalishok >= 0): print(f"Y vas zalishitsa = {zalishok}")
+
+# Task 3 
+# side_1 = int(input("Persha diagonal = "))
+# side_2 = int(input("Dryga diagonal = "))
+
+# print(f"Plosha romba = {(side_1 * side_2) / 2}")
