@@ -1,0 +1,23 @@
+body {
+    margin: 0 100px 0 100px;
+    height: 975px;
+}
+h1, h2{
+    text-align: center;
+}
+p1 {
+    font-size: 20px;
+}
+
+p2 {
+    color:cadetblue;
+}
+
+.coding {
+    background-color:aliceblue;
+    margin-top: 20px;
+}
+
+.coding_into {
+    padding: 20px
+}
